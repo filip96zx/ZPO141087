@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.exe
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.deps.json
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.runtimeconfig.json
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.runtimeconfig.dev.json
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.dll
+C:\Users\filip\Desktop\ZPO\cw4\cw4\bin\Debug\netcoreapp3.0\cw4.pdb
+C:\Users\filip\Desktop\ZPO\cw4\cw4\obj\Debug\netcoreapp3.0\cw4.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\ZPO\cw4\cw4\obj\Debug\netcoreapp3.0\cw4.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\ZPO\cw4\cw4\obj\Debug\netcoreapp3.0\cw4.AssemblyInfo.cs
+C:\Users\filip\Desktop\ZPO\cw4\cw4\obj\Debug\netcoreapp3.0\cw4.dll
+C:\Users\filip\Desktop\ZPO\cw4\cw4\obj\Debug\netcoreapp3.0\cw4.pdb

@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.exe
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.deps.json
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.runtimeconfig.json
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.runtimeconfig.dev.json
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.dll
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\bin\Debug\netcoreapp3.0\D3.pdb
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\obj\Debug\netcoreapp3.0\D3.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\obj\Debug\netcoreapp3.0\D3.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\obj\Debug\netcoreapp3.0\D3.AssemblyInfo.cs
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\obj\Debug\netcoreapp3.0\D3.dll
+C:\Users\filip\Desktop\ZPO\ZPO141087-master\cw4\D3\D3\obj\Debug\netcoreapp3.0\D3.pdb
